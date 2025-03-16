@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: WWNSRDV1
+description: WWN SRD Doc
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://sambilheimer.github.io/WWNSRDV1
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/sambilheimer/WWNSRDV1
