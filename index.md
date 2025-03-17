@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav-order: 0
+nav-order: 1
 ---
 
 # An Introduction
