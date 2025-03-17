@@ -2,7 +2,7 @@
 template: Default
 title: Force Assets
 parent: Factions
-nav_order: 7
+nav_order: 9
 ---
 
 ## 6.9.0 Force Assets

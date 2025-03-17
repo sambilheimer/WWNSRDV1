@@ -2,7 +2,7 @@
 template: Default
 title: Magical Projects
 parent: Major Projects
-nav_order: 8
+nav_order: 7
 ---
 
 ## 7.7.0 Magical Projects

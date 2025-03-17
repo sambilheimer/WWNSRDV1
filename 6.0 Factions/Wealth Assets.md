@@ -2,7 +2,7 @@
 layout: default
 title: Wealth Assets
 parent: Factions
-nav_order: 8
+nav_order: 10
 ---
 
 ## 6.10.0 Wealth Assets

@@ -2,7 +2,7 @@
 layout: default
 title: Major Projects and Existing Factions
 parent: Major Projects
-nav_order: 7
+nav_order: 8
 ---
 
 ## 7.8.0 Major Projects and Existing Factions
