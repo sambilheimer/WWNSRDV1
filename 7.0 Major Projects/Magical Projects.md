@@ -1,5 +1,5 @@
 ---
-template: Default
+layout: Default
 title: Magical Projects
 parent: Major Projects
 nav_order: 7

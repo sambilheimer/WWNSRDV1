@@ -1,5 +1,5 @@
 ---
-template: Default
+layout: Default
 title: Determining the Project Scope
 parent: Major Projects
 nav_order: 3
