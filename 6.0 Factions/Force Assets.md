@@ -1,7 +1,7 @@
 ---
 template: Default
 title: Force Assets
-has_children: true
+parent: Factions
 nav_order: 7
 ---
 
