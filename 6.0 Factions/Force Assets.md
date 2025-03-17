@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: default
 title: Force Assets
 parent: Factions
 nav_order: 9

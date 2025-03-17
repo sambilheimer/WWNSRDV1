@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: default
 title: Player Run Factions and Major Projects
 parent: Major Projects
 nav_order: 9

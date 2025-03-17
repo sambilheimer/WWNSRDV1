@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: default
 title: Determining the Opposition
 parent: Major Projects
 nav_order: 4
