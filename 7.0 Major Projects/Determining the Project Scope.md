@@ -8,6 +8,7 @@ nav_order: 3
 ## 7.3.0 Determining the Project Scope
 
 Once the change’s probability is decided, the GM must identify how wide the scope of the change may be.
+
 The more land and the more people the change affects, the harder it will be to bring it about.
 
 A village-sized change is the smallest scale, affecting only a single hamlet or a village’s worth of people.
