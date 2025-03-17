@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Reaction Rolls and Parleying
+title: Reaction Rolls & Parleying
 parent: Monsters and Foes
 nav_order: 2
 ---
 
-## 5.2.0 Reaction Rolls and Parleying
+## 5.2.0 Reaction Rolls & Parleying
 
 These rules do not encourage constant combat encounters. Heroes are fragile, foes are dangerous, and almost every fight runs some risk of downing at least one PC. GMs or players who arrange their games as a curated sequence of battles are going to rapidly run out of luck.
 

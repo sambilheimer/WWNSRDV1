@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Morale Checks and Fleeing
+title: Morale Checks & Fleeing
 parent: Monsters and Foes
 nav_order: 3
 ---
 
-## 5.3.0 Morale Checks and Fleeing
+## 5.3.0 Morale Checks & Fleeing
 
 Sometimes, however, combat is inevitable.
 The raiders swoop down on the heroes, the savage beast pounces, or the vile necromancer runs out of small talk.

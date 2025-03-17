@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Monster and NPC Statistics
+title: Monster & NPC Statistics
 parent: Monsters and Foes
 nav_order: 1
 ---
 
-## 5.1.0 Monster and NPC Statistics
+## 5.1.0 Monster & NPC Statistics
 
 The table of example stat lines has several columns, each one listing a particular statistic for the creature.
 
