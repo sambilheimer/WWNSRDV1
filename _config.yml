@@ -36,8 +36,8 @@ search:
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: "k"
 
-aux_links:
-  Template Repository: https://github.com/sambilheimer/WWNSRDV1
+# aux_links:
+#   Sine Nomine Publishing: https://sine-nomine-publishing.myshopify.com/
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
