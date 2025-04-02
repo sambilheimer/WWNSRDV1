@@ -5,7 +5,13 @@ nav_order: 1
 permalink: /
 ---
 
-# An Introduction
+# An Introduction from the Site Manager
+
+Hi. This site is a repository of the System Reference Document (SRD) for the fantasy RPG **Worlds Without Number**.
+
+The SRD is a free, open-source, and public domain document that describes the rules and mechanics of the game. If you're one of my players, you can skim through the rules, particularly take a look at [The Rules of the Game](2.0 The Rules of the Game) and [Character Creation](1.0 Character Creation). I will probably update this whole thing to be more user friendly but for now, this is the best way to get started while I keep working on it.
+
+# An Introduction from Kevin Crawford, author of Worlds Without Number
 
 The document that follows is intended as a reference for game designers who wish to produce role-playing games using the mechanics of the **Worlds Without Number** fantasy RPG.
 It is not intended to substitute for the free PDF version of the game as a player resource or other reference, so the text included here is largely devoid of examples or other instructional text and it is not written to be convenient as a table reference.
