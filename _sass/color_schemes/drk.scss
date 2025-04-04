@@ -11,7 +11,7 @@ $body-heading-color: $dark-body-color;
 $body-text-color: $dark-body-color;
 
 a:not([class]) {
-  text-decoration-color: $teal-link;
+  text-decoration-color: $teal-link !important;
 }
 
 .site-logo {
