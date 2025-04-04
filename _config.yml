@@ -10,7 +10,7 @@ logo: "/assets/WWNSRD_Logo.webp"
 # Supports true (default) or false
 search_enabled: true
 
-color_scheme: dark
+color_scheme: drk
 
 search:
   # Split pages into sections that can be searched individually
