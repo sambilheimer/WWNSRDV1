@@ -9,3 +9,11 @@ $nav-child-link-color: $grey-lt-300;
 $body-background-color: $dark-bg-color;
 $body-heading-color: $dark-body-color;
 $body-text-color: $dark-body-color;
+
+a:not([class]) {
+  text-decoration-color: $teal-link;
+}
+
+.site-logo {
+  filter: brightness(0) invert(1);
+}
