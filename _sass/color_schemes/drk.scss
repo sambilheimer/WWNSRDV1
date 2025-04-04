@@ -1,3 +1,11 @@
 @import "./color_schemes/dark";
 
-$link-color: $red-000;
+$dark-bg-color: #161616;
+$dark-body-color: #f1f1f1;
+$teal-link: #00ffec;
+
+$link-color: $teal-link;
+$nav-child-link-color: $grey-lt-300;
+$body-background-color: $dark-bg-color;
+$body-heading-color: $dark-body-color;
+$body-text-color: $dark-body-color;
