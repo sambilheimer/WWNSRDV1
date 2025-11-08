@@ -6,6 +6,12 @@ url: https://sambilheimer.github.io/WWNSRDV1
 
 logo: "/assets/WWNSRD_Logo.webp"
 
+# External navigation links
+nav_external_links:
+  - title: CWN SRD ↗
+    url: https://cwn.quadrifons.com
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
